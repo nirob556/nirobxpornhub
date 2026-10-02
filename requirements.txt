@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+jinja2
+curl_cffi
+selectolax
+chompjs
+xhamster_api
+eaf_base_api
